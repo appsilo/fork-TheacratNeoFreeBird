@@ -1,3 +1,7 @@
+# Archived
+
+I haven't had time to support this in a while, you should use [orionblur's fork](https://github.com/orionblur/NeoFreeBird) instead, it's more up to date. Unfortunately seems like login workarounds are dead for good unless someone can come up with an entirely new method.
+
 <div align="center">
     <img src="icon_rounded.png" alt="NeoFreeBird-BHTwitter" width="130" height="130">
 
